@@ -1,0 +1,1 @@
+CRTL + SHIFT + Q  ----->    Roda a consulta
