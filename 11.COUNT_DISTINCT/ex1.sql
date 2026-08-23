@@ -1,0 +1,3 @@
+SELECT COUNT(DISTINCT IdCliente)
+
+FROM clientes

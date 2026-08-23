@@ -1,0 +1,3 @@
+SELECT DISTINCT FlTwitch
+
+FROM clientes
