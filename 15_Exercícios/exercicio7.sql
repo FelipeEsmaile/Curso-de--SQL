@@ -8,7 +8,10 @@ GROUP BY IdProduto
 
 ORDER BY QtdProduto DESC
 
+LIMIT 1
 
 
 
 
+
+ 
