@@ -1,0 +1,1 @@
+-- Quantos clientes tem email cadastrado?

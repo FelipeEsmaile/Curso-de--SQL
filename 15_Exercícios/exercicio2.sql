@@ -1,0 +1,1 @@
+-- Qual cliente juntou mais pontos positivos em 2025-05?
