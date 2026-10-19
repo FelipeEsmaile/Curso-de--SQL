@@ -1,3 +1,5 @@
+-- Pergunta: Qual cliente estava no primeiro dia e estava no último.
+
 SELECT count(distinct IdCliente)
 
 FROM transacoes as t1
