@@ -1,0 +1,1 @@
+-- Qual o dia da semana mais ativo de cada usuário?

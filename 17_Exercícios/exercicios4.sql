@@ -1,0 +1,2 @@
+-- Qual o total de pontos trocados no Stream Elements em Junho de 2025?
+

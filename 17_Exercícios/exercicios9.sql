@@ -1,0 +1,1 @@
+-- Quantidade de transações Acumuladas ao longo do tempo?
